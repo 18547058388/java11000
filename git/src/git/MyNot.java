@@ -5,7 +5,7 @@ import java.util.Scanner;
 import org.junit.Test;
 
 public class MyNot {
-	// 14输入三个整数x,y,z，请把这三个数由小到大输出。
+	// 输入三个整数x,y,z，请把这三个数由小到大输出。
 		@Test
 		public void work14() {
 			System.out.println("请输入三个数");
